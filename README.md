@@ -1,7 +1,7 @@
-# José Peresini - Front-End Developer en Formación
+# José Peresini - Front-End Developer in Training
 
-¡Hola! Soy **José Peresini**, un apasionado desarrollador front-end en formación. Actualmente, estoy cursando la **carrera de Front End en Desafío Latam**, donde estoy aprendiendo y mejorando mis habilidades en **HTML** y **CSS**.
+Hi! I'm **José Peresini**, a passionate front-end developer in training. Currently, I'm taking the **Front End career at Desafío Latam**, where I'm learning and improving my skills in **HTML** and **CSS**.
 
-En mis proyectos personales, me enfoco en la creación de **páginas web estáticas**, incluyendo el desarrollo de contenido para mi perfil de Instagram [@JosePeresini](https://www.instagram.com/joseperesini) y mi portafolio personal, que puedes visitar en [joseperesini.online](https://joseperesini.online).
+In my personal projects, I focus on the creation of **static websites**, including the development of content for my Instagram profile [@JosePeresini](https://www.instagram.com/joseperesini) and my personal portfolio, which you can visit at [joseperesini.online](https://joseperesini.online).
 
-¡Explora mis proyectos y acompáñame en este viaje de desarrollo web!
+Explore my projects and join me on this web development journey!
